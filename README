@@ -1,6 +1,6 @@
 1.- Compila el programa ejecutando la orden "make"
 2.- Abre el programa con "./practica1"
-Una vez el se haya abierto el programa verá una pantalla en blanco con los ejes de coordenadas(x, y, z) pintados.
+Una vez se haya abierto el programa verá una pantalla en blanco con los ejes de coordenadas(x, y, z) pintados.
 3.- Para rotar los ejes de coordenadas use las flechas de dirección.
 4.- Para acercarse o alejarse al centro del eje de coordenadas use las teclas Repág o AvPág.
 5.- Para mostrar figuras geométricas en pantalla pulse:	
